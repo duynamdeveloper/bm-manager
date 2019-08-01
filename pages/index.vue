@@ -142,9 +142,8 @@ export default {
       search: '',
       tableLoading: false,
       business: {
-        id: 280164029285190,
-        token:
-          'EAAGNO4a7r2wBADq27nN0OV3GozwQoZCuB2IacLJMtVctd5gaM5pdnmjwCgeNFlb1Pxkk2wIFhqMTS1ZBrfkYYi7TuZCNYrCHLvtDwlZBZBnnx41Y6THvlkIpCN9wAtTRKKDyg2be01vHEbtTXB1RvXazPdAcCHnxtpPkuDCF2uwZDZD',
+        id: '',
+        token: '',
         name: 'Business Name'
       },
       pagination: {
